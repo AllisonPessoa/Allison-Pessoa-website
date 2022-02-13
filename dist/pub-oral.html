@@ -12,6 +12,7 @@
         <link href="css/styles.css" rel="stylesheet" />
     </head>
     <body>
+
         <!-- Responsive navbar-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container px-5">
@@ -20,20 +21,20 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item"><a class="nav-link" href="index.html">About me</a></li>
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="research.html">Research</a></li>
+                        <li class="nav-item"><a class="nav-link" href="research.html">Research</a></li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Technical</a>
+                            <a class="nav-link dropdown-toggle" id="technical" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Technical</a>
                             <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
                                 <li><a class="dropdown-item" href="tech-instrumentation.html">Instrumentation</a></li>
                                 <li><a class="dropdown-item" href="tech-softwares.html">Software</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Publications</a>
+                            <a class="nav-link dropdown-toggle active" id="publications" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Publications</a>
                             <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
                                 <li><a class="dropdown-item" href="pub-full.html">Full Articles</a></li>
                                 <li><a class="dropdown-item" href="pub-banners.html">Conference Banners</a></li>
-                                <li><a class="dropdown-item" href="pub-oral.html">Oral Talks</a></li>
+                                <li><a class="dropdown-item" aria-current="page" href="pub-oral.html">Oral Talks</a></li>
                             </ul>
                         </li>
                         <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
@@ -44,20 +45,11 @@
 
         <!-- Page Content-->
         <section class="py-5">
-            <div class="container px-5 my-5">
 
-              <strong>Luminescence Thermometry - under construction</strong>
-              Luminescent thermometry is a rapid expanding field with its grounds on the second half of last century.
-              It uses the light emission from a system to probe the temperature of the surroundings. Of special interest
-              is the use of single NCs toward the realization of temperature sensing in nanoscale with high spatial,
-              temporal, and thermal resolution.
-              In the past decades, advancements in the synthesis of Lanthanide (Ln3+)-doped nanocrystals (NC) have provided
-              powerful tools for temperature sensing applications. Combining high accuracy, low toxicity, and high photostability,
-              optical thermometers based on such systems are being exploited heavily by the scientific community nowadays.
-              My work is to study the physics behind the temperature probing of single nanoparticles, and how the
-              measuring process itself influences the temperature readouts.
+            <div class="container px-5" id="paper_container">
+                <h1 class="fw-bolder fs-5 mb-4">Oral Talks</h1>
+            </div>
 
-           </div>
         </section>
 
         <!-- Footer-->
@@ -68,5 +60,6 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
+        <script type="text/javascript" src="js/new_oral.js"></script>
     </body>
 </html>
