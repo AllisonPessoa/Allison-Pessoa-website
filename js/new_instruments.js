@@ -32,6 +32,6 @@ addOral("Heating Device",
 "Allison Pessoa",
 "The Heating Device acts to hold at a constant and adjustable setpoint (through PID control) the temperature in a thermal blanket (heater), while a thermistor is constantly reading the temperature. The communication PC-Heater is done via serial, through which some commands can be sent, like changing the PID parameters or changing the temperature setpoint value. Furthermore, a GUI (Graphic User Interface) can be designed to control the hardware, and plot the temperature in real-time. This project was shared with Simon Bongarz at LMU, Munich, Germany, for his Master's project.",
 "2020",
-"https://create.arduino.cc/projecthub/allisonpessoa/heating-device-with-pid-temperature-control-c31aa2",
+"https://create.arduino.cc/projecthub/allisonpessoa/gui-heating-device-with-pid-temperature-control-c31aa2",
 "https://github.com/AllisonPessoa/heating-device",
-"images/oral-seminario de optica ufpe 05-10-2021.png");
+"images/instruments-heating_device.png");
