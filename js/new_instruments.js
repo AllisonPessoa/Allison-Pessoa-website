@@ -35,3 +35,11 @@ addOral("Heating Device",
 "https://create.arduino.cc/projecthub/allisonpessoa/gui-heating-device-with-pid-temperature-control-c31aa2",
 "https://github.com/AllisonPessoa/heating-device",
 "images/instruments-heating_device.png");
+
+addOral("TCSPC",
+"Allison Pessoa",
+"Time-resolved measurements of the luminescence intensity of a system allows us to study the photophysical dynamics of the problem. This project is a Time-Correlated Single Photon Counter (TCSPC) which counts pulses in very small time-intervals from a photon-counter. This project was used to measure the excited-state lifetimes of lanthanide-doped single nanoparticles. It was also used to perform magnetometry measurements in Nitrogen-vacancy defects in nanodiamonds. NOT AVAILABLE YET.",
+"2019",
+"",
+"",
+"images/instrument-tcspc.png");

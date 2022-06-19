@@ -3,7 +3,7 @@ function addPaper(title, author, ref, year, link, image) {
     "<div class='card border-1 shadow rounded-3 overflow-hidden'>\
         <div class='card-body p-0'>\
             <div class='row gx-0'>\
-              <div class='py-lg-4 col-xl-2'><img class='img-fluid rounded' src='"+image+"' alt='Paper cover' /></div>\
+              <div class='py-lg-4 px-lg-4 col-xl-3'><img class='img-fluid rounded' src='"+image+"' alt='Paper cover' /></div>\
                 <div class='col-lg-6 col-xl-9 py-lg-1'>\
                     <div class='p-3 p-md-4'>\
                         <div class='h5 fw-bolder'>"+title+"</div>\

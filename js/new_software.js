@@ -26,6 +26,13 @@ addOral("Nano Scanner",
 "",
 "images/software-nano_scanner.png");
 
+addOral("TCSPC GUI",
+"Allison Pessoa",
+"This project is a Graphical User Interface (GUI) to interface with a home-made Time-Correlated Single Photon Counter (TCSPC) used for lifetime measurements by using single photon counters. NOT AVAILABLE YET.",
+"2021",
+"",
+"images/software-tcspc.png");
+
 addOral("Luminescence Data Analyser",
 "Allison Pessoa",
 "Python scripts to compute and manipulate luminescence signal data, including spectral data and decay curves (provenient from time-resolved measurements). It facilitates performing operations and plotting your spectral data, specially when there are tons of them.",
