@@ -22,6 +22,14 @@ function addOral(title, author, description, year, presentation_link, abstract_l
 
 addOral("Hyperspectral scanning of single-microparticle upconverting thermometers",
 "PESSOA, A. R.",
+"Oral talk given in the Latin America Optics and Photonics (LAOP) Conference, which took place in Recife-PE, Brazil, from 8 August to 11 August 2022.",
+"2022",
+"https://www.dropbox.com/s/5z1gl3w8wxk7tcx/LAOP%202022%20presentation%20-%20Allison%20Pessoa.pdf?raw=1",
+"https://www.dropbox.com/s/0h7zbxuetwx7k1d/Abstract%20LAOP%20-%20Allison%20-%20Hyperspectral%20Scanning%20of%20single-microparticle%20upconverting%20thermometers.pdf?raw=1",
+"images/oral-laop 08-09-2022.png");
+
+addOral("Hyperspectral scanning of single-microparticle upconverting thermometers",
+"PESSOA, A. R.",
 "Oral talk given in the Optics Group Seminar at Universidade Federal de Pernambuco (UFPE), Brazil, on 3 May 2022.",
 "2022",
 "https://www.dropbox.com/s/hzos0ez8k0s5p9u/Apresenta%C3%A7%C3%A3o%20Semin%C3%A1rio%20de%20%C3%93ptica.pdf?raw=1",
