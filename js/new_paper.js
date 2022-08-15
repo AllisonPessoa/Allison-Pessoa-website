@@ -18,6 +18,13 @@ function addPaper(title, author, ref, year, link, image) {
     </div>";
 }
 
+addPaper("2D Thermal Maps Using Hyperspectral Scanning of Single Upconverting Microcrystals: Experimental Artifacts and Image Processing",
+"PESSOA, A.R. ; GALINDO, J. A. O. ; SERGE-CORREALES, Y. ; AMARAL, A. M. ; RIBEIRO, S.J.L. ; MENEZES, L DE S.",
+"ACS Appllied Materials & Interfaces, XXXX",
+"2022",
+"https://pubs.acs.org/doi/full/10.1021/acsami.2c08709",
+"images/article-ACS appl mat inter, 2022.gif");
+
 addPaper("Influence of the surrounding medium on the luminescence-based thermometric properties of single Yb3+/Er3+ codoped yttria nanocrystals",
 "GALINDO, J. A. O. ; PESSOA, A.R. ; AMARAL, A. M. ; MENEZES, L DE S.",
 "Nanoscale Advances, v. 3, p. 6231-6241",
