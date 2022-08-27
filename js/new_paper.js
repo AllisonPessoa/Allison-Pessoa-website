@@ -20,7 +20,7 @@ function addPaper(title, author, ref, year, link, image) {
 
 addPaper("2D Thermal Maps Using Hyperspectral Scanning of Single Upconverting Microcrystals: Experimental Artifacts and Image Processing",
 "PESSOA, A.R. ; GALINDO, J. A. O. ; SERGE-CORREALES, Y. ; AMARAL, A. M. ; RIBEIRO, S.J.L. ; MENEZES, L DE S.",
-"ACS Appllied Materials & Interfaces, XXXX",
+"ACS Appllied Materials & Interfaces, v. 14, p. 38311-38319",
 "2022",
 "https://pubs.acs.org/doi/full/10.1021/acsami.2c08709",
 "images/article-ACS appl mat inter, 2022.gif");
