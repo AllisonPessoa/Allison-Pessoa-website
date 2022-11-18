@@ -1,4 +1,4 @@
-function addOral(title, author, description, year, github_page, image) {
+function addSoftware(title, author, description, year, github_page, image) {
   document.getElementById("paper_container").innerHTML +=
     "<div class='card border-1 shadow rounded-3 overflow-hidden'>\
         <div class='card-body p-0'>\
@@ -19,21 +19,21 @@ function addOral(title, author, description, year, github_page, image) {
     </div>";
 }
 
-addOral("Nano Scanner",
+addSoftware("Nano Scanner",
 "Allison Pessoa",
-"NanoScanner is an environment to perform imaging of micro and nanosystems. It executes sample pixel-by-pixel-scan, with nanometric spatial resolution, while acquiring information from any desired peripheral instrument that is interacting with the nanosystem. This brings the versatility of building images from numerous physical parameters. NOT AVAILABLE YET.",
+"NanoScanner is an environment to perform imaging of micro and nanosystems. It executes sample pixel-by-pixel-scan, with nanometric spatial resolution, while acquiring information from any desired peripheral instrument that is interacting with the nanosystem. This brings the versatility of building images from numerous physical parameters.",
 "2022",
-"",
+"https://github.com/AllisonPessoa/nano-scanner",
 "images/software-nano_scanner.png");
 
-addOral("TCSPC GUI",
+addSoftware("TCSPC GUI",
 "Allison Pessoa",
 "This project is a Graphical User Interface (GUI) to interface with a home-made Time-Correlated Single Photon Counter (TCSPC) used for lifetime measurements by using single photon counters. NOT AVAILABLE YET.",
 "2021",
-"",
+"https://github.com/AllisonPessoa/boxcar-averager",
 "images/software-tcspc.png");
 
-addOral("Luminescence Data Analyser",
+addSoftware("Luminescence Data Analyser",
 "Allison Pessoa",
 "Python scripts to compute and manipulate luminescence signal data, including spectral data and decay curves (provenient from time-resolved measurements). It facilitates performing operations and plotting your spectral data, specially when there are tons of them.",
 "2020-2022",
