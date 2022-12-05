@@ -26,7 +26,7 @@ addInstrument("3D-printable Motorized Wheel for optical filter turning",
 "2022",
 "https://create.arduino.cc/projecthub/allisonpessoa/3d-printable-motorized-wheel-for-optical-filter-turning-fba365/",
 "",
-"images/instruments-rotation_wheel.png");
+"images/instruments-rotation_wheel2.jpg");
 
 addInstrument("Heating Device",
 "Allison Pessoa",
