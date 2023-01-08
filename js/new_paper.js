@@ -18,6 +18,14 @@ function addPaper(title, author, ref, year, link, image) {
     </div>";
 }
 
+addPaper("Method for separating spectrally overlapping multiphoton upconverted emission bands through spectral power dependence analysis",
+"GALINDO, J. A. O. ; PESSOA, A.R. ; SERGE-CORREALES, Y. ; RIBEIRO, S.J.L. ; MENEZES, L DE S. ; AMARAL, A. M.",
+"Journal of Luminescence, Accepted.",
+"2023",
+"",
+"images/article-jour lumin, accepted.gif");
+
+
 addPaper("2D Thermal Maps Using Hyperspectral Scanning of Single Upconverting Microcrystals: Experimental Artifacts and Image Processing",
 "PESSOA, A.R. ; GALINDO, J. A. O. ; SERGE-CORREALES, Y. ; AMARAL, A. M. ; RIBEIRO, S.J.L. ; MENEZES, L DE S.",
 "ACS Appllied Materials & Interfaces, v. 14, p. 38311-38319",
