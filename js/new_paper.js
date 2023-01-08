@@ -23,7 +23,7 @@ addPaper("Method for separating spectrally overlapping multiphoton upconverted e
 "Journal of Luminescence, Accepted.",
 "2023",
 "",
-"images/article-jour lumin, accepted.gif");
+"images/article-jour lumin, accepted.png");
 
 
 addPaper("2D Thermal Maps Using Hyperspectral Scanning of Single Upconverting Microcrystals: Experimental Artifacts and Image Processing",
